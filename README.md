@@ -2,7 +2,7 @@
 
 ## 구현
 
-![image](https://github.com/bukwon/Hwa_game/assets/148305892/7fdda5b9-a481-443f-8df7-89096a67c012)
+![image](https://github.com/bukwon/Hwa_game/assets/148305892/b41a061c-c45b-466f-9f70-c4756fd25767)
 
 
 ### 화투 게임
