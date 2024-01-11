@@ -30,3 +30,6 @@
 
 ### Submit Date
 - 2018.12.11(Tuesday)
+
+### etc
+- 각 파일들의 기능 및 역할 Hwa 파일 내 ReadMe.txt 참조
